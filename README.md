@@ -10,6 +10,7 @@ Support me for future versions:
 
 
 Node documentation says:
+
     It is unsafe to use fs.write() multiple times on the same file without waiting for the callback.
     https://nodejs.org/api/fs.html#fs_fs_write_fd_buffer_offset_length_position_callback
 
