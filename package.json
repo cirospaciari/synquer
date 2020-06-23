@@ -1,6 +1,6 @@
 {
   "name": "synquer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Synquer can be used for sync write calls to the same file.",
   "main": "main.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cirospaciari/wqueue.git"
+    "url": "git+https://github.com/cirospaciari/synquer.git"
   },
   "keywords": [
     "queue",
     "async",
-    "wqueue",
+    "synquer",
     "sync",
     "write"
   ],
@@ -26,7 +26,7 @@
   "author": "Ciro César Martins Spaciari Jr",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cirospaciari/wqueue/issues"
+    "url": "https://github.com/cirospaciari/synquer/issues"
   },
-  "homepage": "https://github.com/cirospaciari/wqueue#readme"
+  "homepage": "https://github.com/cirospaciari/synquer#readme"
 }

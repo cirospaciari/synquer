@@ -1,6 +1,6 @@
 [![npm package](https://nodei.co/npm/synquer.png?downloads=true&downloadRank=true?maxAge=30)](https://nodei.co/npm/synquer/)
 
-[![NPM version](https://img.shields.io/npm/v/synquer.svg)](https://img.shields.io/npm/v/synquer.svg) [![NPM License](https://img.shields.io/npm/l/synquer.svg)](https://img.shields.io/npm/l/synquer.svg) [![Downloads](https://img.shields.io/npm/dt/synquer.svg?maxAge=43200)](https://img.shields.io/npm/dt/synquer.svg?maxAge=60) [![ISSUES](https://img.shields.io/github/issues/cirospaciari/wqueue.svg?maxAge=60)](https://img.shields.io/github/issues/cirospaciari/wqueue.svg?maxAge=60)
+[![NPM version](https://img.shields.io/npm/v/synquer.svg)](https://img.shields.io/npm/v/synquer.svg) [![NPM License](https://img.shields.io/npm/l/synquer.svg)](https://img.shields.io/npm/l/synquer.svg) [![Downloads](https://img.shields.io/npm/dt/synquer.svg?maxAge=43200)](https://img.shields.io/npm/dt/synquer.svg?maxAge=60) [![ISSUES](https://img.shields.io/github/issues/cirospaciari/synquer.svg?maxAge=60)](https://img.shields.io/github/issues/cirospaciari/synquer.svg?maxAge=60)
 
 Support me for future versions:
 
