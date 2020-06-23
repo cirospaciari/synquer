@@ -13,7 +13,8 @@ Node documentation says:
     It is unsafe to use fs.write() multiple times on the same file without waiting for the callback.
     https://nodejs.org/api/fs.html#fs_fs_write_fd_buffer_offset_length_position_callback
 
-WQueue can be used for sync write calls to the same file.
+Synquer can be used for sync write calls to the same file.
+But Synquer can be used for sync any promises not only write calls.
         
 How install:
 
@@ -28,11 +29,11 @@ const util = require('util');
 const writeAsync = util.promisify(fs.write);
 
 
-//Wait Queue or Write Queue
-const { WQueue } = require('wqueue');
-//import WQueue from 'wqueue';
+//Wait Queue
+const { Synquer } = require('synquer');
+//import Synquer from 'synquer';
 
-const write_queue = new WQueue();
+const write_queue = new Synquer();
 
 async function write(){
     //write in order

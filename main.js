@@ -1,4 +1,4 @@
-class WQueue {
+class Synquer {
 
     constructor() {
         this.queue = [];
@@ -63,5 +63,5 @@ class WQueue {
     }
 }
 
-module.exports =  { WQueue };
-module.exports["default"] = WQueue;
+module.exports =  { Synquer };
+module.exports["default"] = Synquer;
