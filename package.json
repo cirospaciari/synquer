@@ -1,6 +1,6 @@
 {
   "name": "synquer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Synquer can be used for sync write calls to the same file.",
   "main": "main.js",
   "scripts": {
