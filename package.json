@@ -1,0 +1,32 @@
+{
+  "name": "wqueue",
+  "version": "1.0.0",
+  "description": "WQueue can be used for sync write calls to the same file.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cirospaciari/wqueue.git"
+  },
+  "keywords": [
+    "queue",
+    "async",
+    "wqueue",
+    "sync",
+    "write"
+  ],
+  "contributors": [
+    {
+      "name": "Ciro César Martins Spaciari Jr",
+      "email": "ciro.spaciari@gmail.com"
+    }
+  ],
+  "author": "Ciro César Martins Spaciari Jr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cirospaciari/wqueue/issues"
+  },
+  "homepage": "https://github.com/cirospaciari/wqueue#readme"
+}
